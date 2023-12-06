@@ -75,3 +75,19 @@ database management system.
 To build a user interface for SMS spam detection system, web frameworks like Stream
 lit or Flask can be helpful.
 
+# RESULTS
+
+output1:
+![Screenshot (20)](https://github.com/saikiran5555/Spam-Detection/assets/116197365/feade5cd-6970-4b9b-8c30-4f981dadfe83)
+output2:
+![Screenshot (21)](https://github.com/saikiran5555/Spam-Detection/assets/116197365/70b7914c-123d-436e-a358-219ab0710a98)
+
+# CONCLUSION
+In conclusion, SMS spam detection using machine learning is an effective solution for
+identifying and blocking unwanted and potentially harmful text messages. It enhances user
+experience, improves security, and adapts to evolving spam tactics. Customization options
+empower users, while privacy and compliance are vital considerations. Finally, we conclude
+that this SMS Spam detection using machine learning improves messaging by filtering out
+spam, safeguarding user privacy, and enhancing the overall messaging experience. Detects,
+spam messages from unknown or known senders. Helps the people not be involved into
+any type of fraud activities or be safe from the hackers.
